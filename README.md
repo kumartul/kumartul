@@ -41,5 +41,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar-Official&count_private=true&show_icons=true&theme=dark)
 
 ## My Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official)
 
