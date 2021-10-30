@@ -43,3 +43,7 @@
 ## My Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official)
 
+## My Weekly Development Breakdown
+![](https://github-readme-stats.vercel.app/api/wakatime?username=Atul-Kumar-Official)
+
+---
