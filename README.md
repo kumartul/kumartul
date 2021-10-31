@@ -38,7 +38,7 @@
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## My GitHub Status
-![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar-Official&count_private=true&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar-Official&show_icons=true&theme=dark)
 
 ## My Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official)
