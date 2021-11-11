@@ -41,7 +41,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar-Official&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
 ## My Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official&theme=dark)
 
 ## My Streak
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Atul-Kumar-Official&theme=dark)
