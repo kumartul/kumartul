@@ -50,13 +50,13 @@
 ## My Weekly Development Breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 19 November, 2021 - 25 November, 2021
+Week: 20 November, 2021 - 26 November, 2021
 
-CSS        4 hrs           ████████▓░░░░░░░░░░░░░░░░   34.29 % 
-SCSS       3 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.34 % 
-HTML       2 hrs 27 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.09 % 
-C#         1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-Markdown   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+SCSS         3 hrs 4 mins    ███████▓░░░░░░░░░░░░░░░░░   31.25 % 
+CSS          2 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.68 % 
+HTML         1 hr 56 mins    █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+C#           1 hr 6 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+JavaScript   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 <!--END_SECTION:waka-->
 
