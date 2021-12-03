@@ -38,19 +38,19 @@
 ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
-## My GitHub Status
+## My GitHub Status 📊
 ![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar-Official&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
-## My Top Languages
+## My Top Languages 🔼
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official&theme=dark)
 
-## My Streak
+## My Streak 📉
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Atul-Kumar-Official&theme=dark)
 
-## My Contribution Graph
+## My Contribution Graph 🙌
 ![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode)
 
-## My Weekly Development Breakdown
+## My Weekly Development Breakdown 🧑‍💻
 <!--START_SECTION:waka-->
 ```text
 Week: 26 November, 2021 - 02 December, 2021
