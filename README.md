@@ -48,7 +48,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumartul&theme=dark)
 
 ## My Contribution Graph 🙌
-![](https://activity-graph.herokuapp.com/graph?username=kumar&theme=xcode)
+![](https://activity-graph.herokuapp.com/graph?username=kumartul&theme=xcode)
 
 ## My Weekly Development Breakdown 🧑‍💻
 <!--START_SECTION:waka-->
