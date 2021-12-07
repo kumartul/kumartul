@@ -39,16 +39,16 @@
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
 ## My GitHub Status 📊
-![](https://github-readme-stats.vercel.app/api?username=Atul-Kumar-Official&show_icons=true&theme=dark&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=kumartul&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
 ## My Top Languages 🔼
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Atul-Kumar-Official&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumartul&theme=dark)
 
 ## My Streak 📉
-![](https://github-readme-streak-stats.herokuapp.com/?user=Atul-Kumar-Official&theme=dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kumartul&theme=dark)
 
 ## My Contribution Graph 🙌
-![](https://activity-graph.herokuapp.com/graph?username=Atul-Kumar-Official&theme=xcode)
+![](https://activity-graph.herokuapp.com/graph?username=kumar&theme=xcode)
 
 ## My Weekly Development Breakdown 🧑‍💻
 <!--START_SECTION:waka-->
