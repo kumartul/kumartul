@@ -50,7 +50,7 @@
 ## My Contribution Graph 🙌
 ![](https://activity-graph.herokuapp.com/graph?username=kumartul&theme=xcode)
 
-## My Weekly Development Breakdown 🧑‍💻
+## My Weekly Development Breakdown 💻
 <!--START_SECTION:waka-->
 ```text
 Week: 03 December, 2021 - 09 December, 2021
