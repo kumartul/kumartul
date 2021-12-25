@@ -53,7 +53,11 @@
 ## My Weekly Development Breakdown 💻
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 18 December, 2021 - 24 December, 2021
+
+JavaScript   20 mins         █████████████▒░░░░░░░░░░░   53.93 % 
+Text         11 mins         ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
+HTML         5 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 ```
 <!--END_SECTION:waka-->
 
