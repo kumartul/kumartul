@@ -43,7 +43,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=kumartul&show_icons=true&theme=dark&count_private=true&show_icons=true)
 
 ## My Top Languages 🔼
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumartul&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kumartul&theme=dark&langs_count=10)
 
 ## My Streak 📉
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kumartul&theme=dark)
