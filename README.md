@@ -54,7 +54,7 @@
 ## My Weekly Development Breakdown 💻
 <!--START_SECTION:waka-->
 ```text
-Week: 28 December, 2021 - 03 January, 2022
+Week: 29 December, 2021 - 04 January, 2022
 
 JavaScript   6 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.64 % 
 C#           5 hrs 38 mins   ████████▓░░░░░░░░░░░░░░░░   34.76 % 
