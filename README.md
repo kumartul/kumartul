@@ -13,6 +13,7 @@
 - Twitter: [atulkumar4224](https://twitter.com/atulkumar4224)
 - Instagram: [a_kumar_o](https://www.instagram.com/a_kumar_o/)
 - Facebook: [AtulKumar](https://www.facebook.com/profile.php?id=100077086612381)
+- Discord: [AtulKumar#4710](https://discord.com/users/AtulKumar#4710)
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
