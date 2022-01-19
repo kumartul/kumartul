@@ -10,9 +10,9 @@
 
 ## Let's Connect 🤝
 - Email: akumarofficial4224@gmail.com
-- Twitter: [](https://twitter.com/atulkumar4224)
-- Instagram: [](https://www.instagram.com/a_kumar_o/)
-- Facebook: [](htttps://www.facebook.com/profile.php?id=100077086612381)
+- Twitter: https://twitter.com/atulkumar4224
+- Instagram: https://www.instagram.com/a_kumar_o/
+- Facebook: htttps://www.facebook.com/profile.php?id=100077086612381
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
