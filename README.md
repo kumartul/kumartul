@@ -1,6 +1,6 @@
 ### Hello, I am Atul Kumar 👋
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on an innovative software
 - 🌱 I’m currently learning SQL
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with Database Development
