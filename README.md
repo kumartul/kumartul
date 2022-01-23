@@ -59,7 +59,7 @@
 ## My Weekly Development Breakdown 💻
 <!--START_SECTION:waka-->
 ```text
-Week: 15 January, 2022 - 21 January, 2022
+Week: 16 January, 2022 - 22 January, 2022
 
 JavaScript   41 hrs 38 mins  ██████████████▓░░░░░░░░░░   58.23 % 
 TypeScript   13 hrs 30 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.90 % 
