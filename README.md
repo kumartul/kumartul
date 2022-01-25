@@ -1,10 +1,10 @@
 ### Hello, I am Atul Kumar 👋
 
 - 🔭 I’m currently working on an innovative software
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning Software Design Patterns
 - 👯 I’m looking to collaborate on Full Stack Development
-- 🤔 I’m looking for help with Database Development
-- 💬 Ask me anything about MERN
+- 🤔 I’m looking for help with Software Design Patterns
+- 💬 Ask me anything about the technologies listed [here](https://github.com/kumartul#my-skills-)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a very reserved guy (I may not show my actual potential...) 😎
 
