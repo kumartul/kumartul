@@ -59,7 +59,7 @@
 ## My Weekly Development Breakdown 💻
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2022 - 24 January, 2022
+Week: 19 January, 2022 - 25 January, 2022
 
 JavaScript   39 hrs 19 mins  ██████████████████░░░░░░░   71.68 % 
 SCSS         5 hrs 42 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
