@@ -9,10 +9,10 @@
 - ⚡ Fun fact: I am a very reserved guy (I may not show my actual potential...) 😎
 
 ## Let's Connect 🤝
-- Email: akumarofficial4224@gmail.com
-- Twitter: [atulkumar4224](https://twitter.com/atulkumar4224)
-- Instagram: [a_kumar_o](https://www.instagram.com/a_kumar_o/)
-- Facebook: [AtulKumar](https://www.facebook.com/profile.php?id=100077086612381)
+- Email: kumartul001@gmail.com
+- Twitter: [atulkumar4224](https://twitter.com/kumartul001)
+- Instagram: [a_kumar_o](https://www.instagram.com/kumartul001)
+- Facebook: [AtulKumar](https://www.facebook.com/kumartul001)
 - Discord: [AtulKumar#4710](https://discord.com/users/AtulKumar#4710)
 
 ## My Skills 💪
