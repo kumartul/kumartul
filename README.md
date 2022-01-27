@@ -10,9 +10,9 @@
 
 ## Let's Connect 🤝
 - Email: kumartul001@gmail.com
-- Twitter: [atulkumar4224](https://twitter.com/kumartul001)
-- Instagram: [a_kumar_o](https://www.instagram.com/kumartul001)
-- Facebook: [AtulKumar](https://www.facebook.com/kumartul001)
+- Twitter: [kumartul001](https://twitter.com/kumartul001)
+- Instagram: [kumartul001](https://www.instagram.com/kumartul001)
+- Facebook: [kumartul001](https://www.facebook.com/kumartul001)
 - Discord: [AtulKumar#4710](https://discord.com/users/AtulKumar#4710)
 
 ## My Skills 💪
