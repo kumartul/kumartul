@@ -13,7 +13,7 @@
 - Twitter: [kumartul001](https://twitter.com/kumartul001)
 - Instagram: [kumartul001](https://www.instagram.com/kumartul001)
 - Facebook: [kumartul001](https://www.facebook.com/kumartul001)
-- Discord: [AtulKumar#4710](https://discord.com/users/AtulKumar#4710)
+- Hashnode: [@kumartul](https://hashnode.com/@kumartul)
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
