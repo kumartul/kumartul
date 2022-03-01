@@ -14,6 +14,15 @@
 - Instagram: [kumartul001](https://www.instagram.com/kumartul001)
 - Facebook: [kumartul001](https://www.facebook.com/kumartul001)
 - Hashnode: [@kumartul](https://hashnode.com/@kumartul)
+- Medium: [@kumartul001](https://medium.com/@kumartul001)
+- ProductHunt: [@kumartul001](https://www.producthunt.com/@kumartul001)
+- Devpost: [kumartul](https://devpost.com/kumartul)
+- HackerEarth: [@kumartul001](https://www.hackerearth.com/@kumartul001)
+- Fueler: [kumartul](https://fueler.io/kumartul)
+- IndieHackers: [kumartul](https://www.indiehackers.com/kumartul)
+- Dev: [kumartul001](https://dev.to/kumartul001)
+- BuyMeACoffee: [kumartul](https://www.buymeacoffee.com/kumartul)
+- Tiny Acquisitions: [atulkumar](https://tinyacquisitions.com/profile/atulkumar)
 
 ## My Skills 💪
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
