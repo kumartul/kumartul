@@ -1,9 +1,9 @@
 ### Hello, I am Atul Kumar 👋
 
-- 🔭 I’m currently working on an innovative software
-- 🌱 I’m currently learning Software Design Patterns
+- 🔭 I’m currently working on MERN stack
+- 🌱 I’m currently mastering TypeScript
 - 👯 I’m looking to collaborate on Full Stack Development
-- 🤔 I’m looking for help with Software Design Patterns
+- 🤔 I’m looking for help with TypeScript
 - 💬 Ask me anything about the technologies listed [here](https://github.com/kumartul#my-skills-)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am a very reserved guy (I may not show my actual potential...) 😎
