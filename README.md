@@ -1,7 +1,7 @@
 ### Hello, I am Atul Kumar 👋
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently mastering TypeScript
+- 🌱 I’m currently learning TypeScript and C
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me anything about the technologies listed [here](https://github.com/kumartul#my-skills-)
