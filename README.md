@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with TypeScript
 - 💬 Ask me anything about the technologies listed [here](https://github.com/kumartul#my-skills-)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am a very reserved guy (I may not show my actual potential...) 😎
+- ⚡ Fun fact: I love cows 🐄
 
 ## Let's Connect 🤝
 - Email: kumartul001@gmail.com
